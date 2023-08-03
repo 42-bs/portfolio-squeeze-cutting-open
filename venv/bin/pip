@@ -1,4 +1,4 @@
-#!/home/k10nn/Desktop/labs/cropdf/venv/bin/python3
+#!/home/lucas/labs42/portfolio-squeeze-cutting-open/venv/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
